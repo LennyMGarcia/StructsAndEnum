@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructsAndEnum", "StructsAndEnum\StructsAndEnum.csproj", "{37544B02-864F-49FE-9F52-3EC64823B8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37544B02-864F-49FE-9F52-3EC64823B8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37544B02-864F-49FE-9F52-3EC64823B8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37544B02-864F-49FE-9F52-3EC64823B8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37544B02-864F-49FE-9F52-3EC64823B8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D67EA363-7601-49EF-99FA-C2B2E7A36A10}
+	EndGlobalSection
+EndGlobal
